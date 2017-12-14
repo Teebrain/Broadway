@@ -28,3 +28,74 @@ body {
   font-size: 23px;
   font-weight: bold;
 }
+
+.note1 {
+  font font-family: Helvetica;
+  font-size: 14px;
+}
+
+#Understand {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.note2 {
+  font font-family: Helvetica;
+  font-size: 14px;
+}
+
+.note3 {
+  font font-family: Helvetica;
+  font-size: 14px;
+}
+
+#designer {
+  background-image: url(../../resources/imgs/the-flatiron-building.png);
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#portfolio {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.note4 {
+  font font-family: Helvetica;
+  font-size: 14px;
+}
+
+#team {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.note5 {
+  font font-family: Helvetica;
+  font-size: 14px;
+}
+
+#contact {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.note6 {
+  font font-family: Helvetica;
+  font-size: 14px;
+}
+
+footer {
+  background-image: url(../../resources/imgs/the-flatiron-building.png);
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
